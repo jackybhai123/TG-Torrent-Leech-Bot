@@ -1,5 +1,5 @@
 {
-    "name": "Telegram Leecher",
+    "name": "Ganesh Telegram Leecher",
     "description": "A Telegram Leecher based on Pyrogram",
     "keywords": [
       "telegram",
@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/azamaulanaaa/botkaca",
-    "repository": "https://github.com/azamaulanaaa/botkaca",
+    "website": "https://github.com/MY-TG-BOTS/TG-Torrent-Leech-Bot",
+    "repository": "https://github.com/MY-TG-BOTS/TG-Torrent-Leech-Bot",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",

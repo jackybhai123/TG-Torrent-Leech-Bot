@@ -1,5 +1,5 @@
-# Torrent Leecher
-### Moded By <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>𝕎𝕆𝕃𝕋ℝ𝔼𝕏</a>
+# Ganesh Torrent Leecher
+### Maded By <a href='@WD_Error_404_Not_Found'>...《《<{WhiteDevil}>》》...</a>
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
@@ -36,7 +36,7 @@ Change config by set the corresponding environment variable name.
 
 ## Deploy button
 
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/MY-TG-BOTS/TG-Torrent-Leech-Bot/tree/Master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ### Credits:
 - [Azamaulanaa](https://github.com/azamaulanaaa/botkaca) For Main Repo.
